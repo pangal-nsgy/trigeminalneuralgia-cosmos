@@ -1,0 +1,52 @@
+state,carbamazepine_oxcarbazepine,baclofen,gabapentin,lamotrigine,pregabalin,onabotulinumtoxina,none_of_above,total,census_region
+Ohio,9362,3819,11319,1497,3092,1371,4707,21746,East North Central
+Texas,9903,3450,11883,1199,3902,948,3596,20732,West South Central
+Florida,7573,2991,9219,930,2795,708,4202,18178,South Atlantic
+Pennsylvania,7411,3117,9223,1429,2580,1109,4038,18076,Middle Atlantic
+California,5840,2466,7795,764,2143,760,3823,15192,Pacific
+North Carolina,6141,2741,8072,1076,2696,703,2757,14442,South Atlantic
+New York,5932,2009,6907,845,1844,626,3605,14139,Middle Atlantic
+Michigan,4852,1903,5523,807,1890,601,2718,11672,East North Central
+Virginia,4458,1857,5502,753,1922,671,2818,11515,South Atlantic
+Illinois,5193,1946,5770,759,1861,404,2336,11300,East North Central
+Wisconsin,3070,1504,3940,550,1255,453,1876,7982,East North Central
+South Carolina,3643,1351,4244,568,1509,416,1269,7648,South Atlantic
+Massachusetts,2724,909,3483,411,787,339,2039,7259,New England
+Georgia,3207,1159,3873,470,1432,322,1179,6846,South Atlantic
+Kentucky,3316,1323,3420,486,1107,328,1218,6696,East South Central
+Colorado,2550,1140,3181,529,1105,494,1578,6680,Mountain
+Minnesota,2855,784,3165,410,817,388,1325,6300,West North Central
+Connecticut,2344,942,2931,350,883,390,1594,6137,New England
+Indiana,2673,859,2712,389,1075,192,1299,5842,East North Central
+New Jersey,2515,947,2949,380,937,323,1277,5782,Middle Atlantic
+Louisiana,2407,961,3061,360,1042,323,1034,5436,West South Central
+Oregon,1991,805,2653,418,968,231,1307,5386,Pacific
+Iowa,1912,711,2081,356,662,204,937,4314,West North Central
+Mississippi,1955,675,2375,257,851,205,768,4241,East South Central
+Maryland,1474,576,1904,213,591,110,808,3641,South Atlantic
+Washington,1420,485,1678,274,560,200,880,3521,Pacific
+Tennessee,1313,481,1327,176,509,122,621,2787,East South Central
+Missouri,1186,469,1385,167,489,185,539,2679,West North Central
+Arizona,1052,352,1169,151,426,99,645,2600,Mountain
+Kansas,1163,452,1406,166,504,208,503,2590,West North Central
+Arkansas,1227,500,1370,207,505,199,418,2545,West South Central
+Oklahoma,1194,432,1255,137,471,73,481,2495,West South Central
+Utah,891,382,1058,198,462,189,540,2314,Mountain
+West Virginia,1043,346,1030,160,344,63,539,2280,South Atlantic
+Idaho,996,396,1155,179,416,158,451,2256,Mountain
+Maine,815,297,914,153,309,107,523,2055,New England
+Nebraska,855,302,929,181,343,108,315,1837,West North Central
+New Hampshire,572,208,728,114,163,93,405,1526,New England
+Nevada,622,204,713,84,192,56,341,1441,Mountain
+Rhode Island,483,166,603,81,162,47,368,1295,New England
+Alabama,631,206,626,65,285,27,253,1290,East South Central
+North Dakota,574,178,636,86,179,58,277,1282,West North Central
+Hawaii,474,147,516,61,250,61,339,1235,Pacific
+Montana,436,189,462,112,164,69,228,1019,Mountain
+Vermont,342,108,413,86,102,52,278,924,New England
+Delaware,355,130,485,80,135,47,197,889,South Atlantic
+South Dakota,378,126,357,46,121,47,159,766,West North Central
+New Mexico,292,140,331,45,101,47,152,684,Mountain
+Wyoming,191,79,222,41,84,28,84,438,Mountain
+District of Columbia,40,11,42,5,5,5,70,139,South Atlantic
+Alaska,5,5,5,5,5,5,5,19,Pacific

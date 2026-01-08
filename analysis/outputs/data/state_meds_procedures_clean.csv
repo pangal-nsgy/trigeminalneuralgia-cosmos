@@ -1,0 +1,358 @@
+state,medication,mvd,srs,rhizotomy,glycerol_rhizotomy,botox,none_of_above,total,census_region
+Ohio,Carbamazepine/Oxcarbazepine,270.0,56.0,48.0,110.0,117.0,8822.0,9362.0,East North Central
+Ohio,Baclofen,153.0,29.0,31.0,69.0,95.0,3477.0,3819.0,East North Central
+Ohio,Gabapentin,211.0,61.0,48.0,124.0,144.0,10789.0,11319.0,East North Central
+Ohio,Lamotrigine,52.0,17.0,12.0,29.0,36.0,1368.0,1497.0,East North Central
+Ohio,Pregabalin,75.0,20.0,17.0,51.0,68.0,2887.0,3092.0,East North Central
+Ohio,OnabotulinumtoxinA,32.0,5.0,15.0,36.0,214.0,1088.0,1371.0,East North Central
+Ohio,None of the above,5.0,5.0,5.0,12.0,5.0,4678.0,4707.0,East North Central
+Texas,Carbamazepine/Oxcarbazepine,339.0,105.0,46.0,211.0,85.0,9176.0,9903.0,West South Central
+Texas,Baclofen,132.0,43.0,21.0,105.0,49.0,3131.0,3450.0,West South Central
+Texas,Gabapentin,290.0,98.0,31.0,186.0,111.0,11217.0,11883.0,West South Central
+Texas,Lamotrigine,42.0,16.0,5.0,32.0,17.0,1093.0,1199.0,West South Central
+Texas,Pregabalin,140.0,50.0,15.0,108.0,46.0,3573.0,3902.0,West South Central
+Texas,OnabotulinumtoxinA,28.0,5.0,5.0,26.0,129.0,778.0,948.0,West South Central
+Texas,None of the above,12.0,5.0,5.0,5.0,5.0,3561.0,3596.0,West South Central
+Florida,Carbamazepine/Oxcarbazepine,318.0,38.0,137.0,163.0,40.0,7001.0,7573.0,South Atlantic
+Florida,Baclofen,148.0,19.0,53.0,60.0,24.0,2736.0,2991.0,South Atlantic
+Florida,Gabapentin,248.0,46.0,97.0,141.0,59.0,8729.0,9219.0,South Atlantic
+Florida,Lamotrigine,44.0,5.0,12.0,21.0,5.0,858.0,930.0,South Atlantic
+Florida,Pregabalin,91.0,20.0,45.0,64.0,19.0,2596.0,2795.0,South Atlantic
+Florida,OnabotulinumtoxinA,28.0,5.0,5.0,20.0,74.0,594.0,708.0,South Atlantic
+Florida,None of the above,19.0,5.0,24.0,26.0,5.0,4144.0,4202.0,South Atlantic
+Pennsylvania,Carbamazepine/Oxcarbazepine,217.0,117.0,20.0,148.0,61.0,6908.0,7411.0,Middle Atlantic
+Pennsylvania,Baclofen,111.0,59.0,14.0,89.0,50.0,2835.0,3117.0,Middle Atlantic
+Pennsylvania,Gabapentin,193.0,112.0,14.0,135.0,70.0,8752.0,9223.0,Middle Atlantic
+Pennsylvania,Lamotrigine,55.0,36.0,5.0,45.0,29.0,1282.0,1429.0,Middle Atlantic
+Pennsylvania,Pregabalin,53.0,47.0,5.0,38.0,24.0,2434.0,2580.0,Middle Atlantic
+Pennsylvania,OnabotulinumtoxinA,26.0,15.0,5.0,24.0,113.0,949.0,1109.0,Middle Atlantic
+Pennsylvania,None of the above,5.0,5.0,5.0,5.0,5.0,4017.0,4038.0,Middle Atlantic
+California,Carbamazepine/Oxcarbazepine,321.0,38.0,47.0,61.0,41.0,5364.0,5840.0,Pacific
+California,Baclofen,146.0,13.0,22.0,33.0,36.0,2235.0,2466.0,Pacific
+California,Gabapentin,275.0,46.0,46.0,66.0,75.0,7323.0,7795.0,Pacific
+California,Lamotrigine,46.0,5.0,5.0,17.0,15.0,684.0,764.0,Pacific
+California,Pregabalin,112.0,14.0,16.0,31.0,31.0,1954.0,2143.0,Pacific
+California,OnabotulinumtoxinA,26.0,5.0,5.0,5.0,75.0,644.0,760.0,Pacific
+California,None of the above,41.0,5.0,5.0,5.0,5.0,3755.0,3823.0,Pacific
+North Carolina,Carbamazepine/Oxcarbazepine,175.0,40.0,5.0,36.0,69.0,5840.0,6141.0,South Atlantic
+North Carolina,Baclofen,120.0,27.0,5.0,22.0,58.0,2529.0,2741.0,South Atlantic
+North Carolina,Gabapentin,142.0,38.0,5.0,38.0,79.0,7785.0,8072.0,South Atlantic
+North Carolina,Lamotrigine,35.0,12.0,5.0,5.0,21.0,1001.0,1076.0,South Atlantic
+North Carolina,Pregabalin,73.0,20.0,5.0,22.0,48.0,2540.0,2696.0,South Atlantic
+North Carolina,OnabotulinumtoxinA,24.0,5.0,5.0,5.0,116.0,566.0,703.0,South Atlantic
+North Carolina,None of the above,5.0,5.0,5.0,5.0,5.0,2747.0,2757.0,South Atlantic
+New York,Carbamazepine/Oxcarbazepine,76.0,25.0,69.0,174.0,52.0,5606.0,5932.0,Middle Atlantic
+New York,Baclofen,33.0,13.0,35.0,75.0,33.0,1862.0,2009.0,Middle Atlantic
+New York,Gabapentin,65.0,21.0,54.0,157.0,67.0,6599.0,6907.0,Middle Atlantic
+New York,Lamotrigine,17.0,5.0,5.0,24.0,14.0,792.0,845.0,Middle Atlantic
+New York,Pregabalin,24.0,5.0,30.0,65.0,34.0,1716.0,1844.0,Middle Atlantic
+New York,OnabotulinumtoxinA,12.0,5.0,5.0,18.0,93.0,510.0,626.0,Middle Atlantic
+New York,None of the above,5.0,5.0,5.0,13.0,5.0,3585.0,3605.0,Middle Atlantic
+Michigan,Carbamazepine/Oxcarbazepine,94.0,5.0,17.0,36.0,24.0,4686.0,4852.0,East North Central
+Michigan,Baclofen,42.0,5.0,12.0,23.0,19.0,1811.0,1903.0,East North Central
+Michigan,Gabapentin,73.0,11.0,16.0,31.0,24.0,5376.0,5523.0,East North Central
+Michigan,Lamotrigine,17.0,5.0,5.0,16.0,5.0,761.0,807.0,East North Central
+Michigan,Pregabalin,26.0,5.0,5.0,17.0,11.0,1828.0,1890.0,East North Central
+Michigan,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,34.0,560.0,601.0,East North Central
+Michigan,None of the above,5.0,5.0,5.0,5.0,5.0,2710.0,2718.0,East North Central
+Virginia,Carbamazepine/Oxcarbazepine,60.0,29.0,5.0,57.0,42.0,4279.0,4458.0,South Atlantic
+Virginia,Baclofen,30.0,15.0,5.0,29.0,33.0,1754.0,1857.0,South Atlantic
+Virginia,Gabapentin,53.0,37.0,5.0,50.0,47.0,5325.0,5502.0,South Atlantic
+Virginia,Lamotrigine,13.0,5.0,5.0,21.0,14.0,698.0,753.0,South Atlantic
+Virginia,Pregabalin,19.0,12.0,5.0,18.0,37.0,1838.0,1922.0,South Atlantic
+Virginia,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,71.0,591.0,671.0,South Atlantic
+Virginia,None of the above,5.0,5.0,5.0,5.0,5.0,2808.0,2818.0,South Atlantic
+Illinois,Carbamazepine/Oxcarbazepine,93.0,15.0,16.0,92.0,39.0,4961.0,5193.0,East North Central
+Illinois,Baclofen,59.0,5.0,11.0,51.0,37.0,1798.0,1946.0,East North Central
+Illinois,Gabapentin,74.0,15.0,11.0,81.0,35.0,5574.0,5770.0,East North Central
+Illinois,Lamotrigine,19.0,5.0,5.0,22.0,14.0,706.0,759.0,East North Central
+Illinois,Pregabalin,34.0,5.0,5.0,42.0,21.0,1763.0,1861.0,East North Central
+Illinois,OnabotulinumtoxinA,5.0,5.0,5.0,13.0,55.0,332.0,404.0,East North Central
+Illinois,None of the above,5.0,5.0,5.0,5.0,5.0,2327.0,2336.0,East North Central
+Wisconsin,Carbamazepine/Oxcarbazepine,44.0,5.0,13.0,116.0,17.0,2884.0,3070.0,East North Central
+Wisconsin,Baclofen,22.0,5.0,15.0,100.0,13.0,1358.0,1504.0,East North Central
+Wisconsin,Gabapentin,36.0,5.0,16.0,158.0,30.0,3712.0,3940.0,East North Central
+Wisconsin,Lamotrigine,5.0,5.0,5.0,28.0,5.0,506.0,550.0,East North Central
+Wisconsin,Pregabalin,5.0,5.0,5.0,66.0,15.0,1163.0,1255.0,East North Central
+Wisconsin,OnabotulinumtoxinA,5.0,5.0,5.0,22.0,25.0,405.0,453.0,East North Central
+Wisconsin,None of the above,5.0,5.0,5.0,20.0,5.0,1847.0,1876.0,East North Central
+South Carolina,Carbamazepine/Oxcarbazepine,128.0,98.0,5.0,61.0,34.0,3345.0,3643.0,South Atlantic
+South Carolina,Baclofen,58.0,50.0,5.0,32.0,22.0,1205.0,1351.0,South Atlantic
+South Carolina,Gabapentin,117.0,76.0,5.0,59.0,32.0,3981.0,4244.0,South Atlantic
+South Carolina,Lamotrigine,21.0,25.0,5.0,19.0,5.0,502.0,568.0,South Atlantic
+South Carolina,Pregabalin,47.0,38.0,5.0,36.0,20.0,1377.0,1509.0,South Atlantic
+South Carolina,OnabotulinumtoxinA,18.0,11.0,5.0,27.0,54.0,320.0,416.0,South Atlantic
+South Carolina,None of the above,5.0,5.0,5.0,5.0,5.0,1254.0,1269.0,South Atlantic
+Massachusetts,Carbamazepine/Oxcarbazepine,17.0,117.0,5.0,5.0,20.0,2568.0,2724.0,New England
+Massachusetts,Baclofen,5.0,46.0,5.0,5.0,11.0,842.0,909.0,New England
+Massachusetts,Gabapentin,13.0,89.0,5.0,11.0,22.0,3355.0,3483.0,New England
+Massachusetts,Lamotrigine,5.0,18.0,5.0,5.0,5.0,385.0,411.0,New England
+Massachusetts,Pregabalin,5.0,37.0,5.0,5.0,5.0,734.0,787.0,New England
+Massachusetts,OnabotulinumtoxinA,5.0,11.0,5.0,5.0,31.0,294.0,339.0,New England
+Massachusetts,None of the above,5.0,21.0,5.0,5.0,5.0,2015.0,2039.0,New England
+Georgia,Carbamazepine/Oxcarbazepine,92.0,90.0,34.0,53.0,30.0,2948.0,3207.0,South Atlantic
+Georgia,Baclofen,39.0,25.0,15.0,27.0,24.0,1044.0,1159.0,South Atlantic
+Georgia,Gabapentin,83.0,65.0,31.0,54.0,50.0,3623.0,3873.0,South Atlantic
+Georgia,Lamotrigine,17.0,19.0,5.0,12.0,5.0,415.0,470.0,South Atlantic
+Georgia,Pregabalin,43.0,43.0,13.0,30.0,29.0,1293.0,1432.0,South Atlantic
+Georgia,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,61.0,248.0,322.0,South Atlantic
+Georgia,None of the above,5.0,5.0,5.0,5.0,5.0,1166.0,1179.0,South Atlantic
+Kentucky,Carbamazepine/Oxcarbazepine,68.0,68.0,14.0,34.0,15.0,3132.0,3316.0,East South Central
+Kentucky,Baclofen,26.0,37.0,5.0,19.0,12.0,1232.0,1323.0,East South Central
+Kentucky,Gabapentin,61.0,51.0,5.0,33.0,18.0,3261.0,3420.0,East South Central
+Kentucky,Lamotrigine,5.0,5.0,5.0,5.0,5.0,460.0,486.0,East South Central
+Kentucky,Pregabalin,29.0,34.0,5.0,17.0,5.0,1023.0,1107.0,East South Central
+Kentucky,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,23.0,293.0,328.0,East South Central
+Kentucky,None of the above,5.0,5.0,5.0,5.0,5.0,1215.0,1218.0,East South Central
+Colorado,Carbamazepine/Oxcarbazepine,17.0,57.0,5.0,26.0,21.0,2433.0,2550.0,Mountain
+Colorado,Baclofen,5.0,22.0,5.0,16.0,24.0,1074.0,1140.0,Mountain
+Colorado,Gabapentin,17.0,44.0,5.0,25.0,49.0,3052.0,3181.0,Mountain
+Colorado,Lamotrigine,5.0,5.0,5.0,5.0,12.0,491.0,529.0,Mountain
+Colorado,Pregabalin,5.0,19.0,5.0,17.0,20.0,1041.0,1105.0,Mountain
+Colorado,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,48.0,441.0,494.0,Mountain
+Colorado,None of the above,5.0,5.0,5.0,5.0,5.0,1560.0,1578.0,Mountain
+Minnesota,Carbamazepine/Oxcarbazepine,57.0,5.0,38.0,5.0,36.0,2717.0,2855.0,West North Central
+Minnesota,Baclofen,19.0,5.0,25.0,5.0,23.0,719.0,784.0,West North Central
+Minnesota,Gabapentin,40.0,5.0,26.0,5.0,38.0,3055.0,3165.0,West North Central
+Minnesota,Lamotrigine,5.0,5.0,5.0,5.0,5.0,384.0,410.0,West North Central
+Minnesota,Pregabalin,14.0,5.0,5.0,5.0,22.0,777.0,817.0,West North Central
+Minnesota,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,69.0,311.0,388.0,West North Central
+Minnesota,None of the above,5.0,5.0,5.0,5.0,5.0,1323.0,1325.0,West North Central
+Connecticut,Carbamazepine/Oxcarbazepine,41.0,49.0,5.0,24.0,37.0,2203.0,2344.0,New England
+Connecticut,Baclofen,25.0,30.0,5.0,18.0,26.0,848.0,942.0,New England
+Connecticut,Gabapentin,40.0,44.0,5.0,24.0,34.0,2795.0,2931.0,New England
+Connecticut,Lamotrigine,11.0,13.0,5.0,5.0,5.0,313.0,350.0,New England
+Connecticut,Pregabalin,12.0,17.0,5.0,11.0,15.0,829.0,883.0,New England
+Connecticut,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,64.0,314.0,390.0,New England
+Connecticut,None of the above,5.0,5.0,5.0,5.0,5.0,1585.0,1594.0,New England
+Indiana,Carbamazepine/Oxcarbazepine,26.0,5.0,5.0,19.0,5.0,2617.0,2673.0,East North Central
+Indiana,Baclofen,11.0,5.0,5.0,5.0,5.0,826.0,859.0,East North Central
+Indiana,Gabapentin,19.0,5.0,5.0,14.0,5.0,2667.0,2712.0,East North Central
+Indiana,Lamotrigine,5.0,5.0,5.0,5.0,5.0,380.0,389.0,East North Central
+Indiana,Pregabalin,5.0,5.0,5.0,5.0,5.0,1055.0,1075.0,East North Central
+Indiana,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,13.0,173.0,192.0,East North Central
+Indiana,None of the above,5.0,5.0,5.0,5.0,5.0,1297.0,1299.0,East North Central
+New Jersey,Carbamazepine/Oxcarbazepine,83.0,39.0,5.0,43.0,16.0,2354.0,2515.0,Middle Atlantic
+New Jersey,Baclofen,44.0,22.0,5.0,27.0,5.0,855.0,947.0,Middle Atlantic
+New Jersey,Gabapentin,60.0,36.0,5.0,35.0,20.0,2815.0,2949.0,Middle Atlantic
+New Jersey,Lamotrigine,24.0,5.0,5.0,5.0,5.0,341.0,380.0,Middle Atlantic
+New Jersey,Pregabalin,23.0,12.0,5.0,15.0,5.0,884.0,937.0,Middle Atlantic
+New Jersey,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,27.0,280.0,323.0,Middle Atlantic
+New Jersey,None of the above,5.0,5.0,5.0,5.0,5.0,1269.0,1277.0,Middle Atlantic
+Louisiana,Carbamazepine/Oxcarbazepine,18.0,36.0,5.0,38.0,35.0,2287.0,2407.0,West South Central
+Louisiana,Baclofen,11.0,21.0,5.0,25.0,32.0,878.0,961.0,West South Central
+Louisiana,Gabapentin,15.0,30.0,5.0,33.0,45.0,2947.0,3061.0,West South Central
+Louisiana,Lamotrigine,5.0,12.0,5.0,11.0,11.0,325.0,360.0,West South Central
+Louisiana,Pregabalin,5.0,14.0,5.0,16.0,24.0,985.0,1042.0,West South Central
+Louisiana,OnabotulinumtoxinA,5.0,5.0,5.0,16.0,61.0,244.0,323.0,West South Central
+Louisiana,None of the above,5.0,5.0,5.0,5.0,5.0,1032.0,1034.0,West South Central
+Oregon,Carbamazepine/Oxcarbazepine,47.0,5.0,46.0,45.0,5.0,1886.0,1991.0,Pacific
+Oregon,Baclofen,20.0,5.0,20.0,20.0,11.0,754.0,805.0,Pacific
+Oregon,Gabapentin,39.0,5.0,34.0,32.0,5.0,2570.0,2653.0,Pacific
+Oregon,Lamotrigine,12.0,5.0,5.0,5.0,5.0,392.0,418.0,Pacific
+Oregon,Pregabalin,18.0,5.0,17.0,17.0,5.0,922.0,968.0,Pacific
+Oregon,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,21.0,204.0,231.0,Pacific
+Oregon,None of the above,5.0,5.0,5.0,5.0,5.0,1297.0,1307.0,Pacific
+Iowa,Carbamazepine/Oxcarbazepine,41.0,19.0,5.0,5.0,5.0,1838.0,1912.0,West North Central
+Iowa,Baclofen,28.0,12.0,5.0,5.0,5.0,663.0,711.0,West North Central
+Iowa,Gabapentin,27.0,18.0,5.0,5.0,12.0,2018.0,2081.0,West North Central
+Iowa,Lamotrigine,11.0,5.0,5.0,5.0,5.0,338.0,356.0,West North Central
+Iowa,Pregabalin,23.0,5.0,5.0,5.0,5.0,622.0,662.0,West North Central
+Iowa,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,20.0,178.0,204.0,West North Central
+Iowa,None of the above,5.0,5.0,5.0,5.0,5.0,936.0,937.0,West North Central
+Mississippi,Carbamazepine/Oxcarbazepine,29.0,11.0,5.0,5.0,5.0,1900.0,1955.0,East South Central
+Mississippi,Baclofen,5.0,5.0,5.0,5.0,5.0,654.0,675.0,East South Central
+Mississippi,Gabapentin,27.0,11.0,5.0,5.0,14.0,2318.0,2375.0,East South Central
+Mississippi,Lamotrigine,5.0,5.0,5.0,5.0,5.0,245.0,257.0,East South Central
+Mississippi,Pregabalin,16.0,5.0,5.0,5.0,5.0,823.0,851.0,East South Central
+Mississippi,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,192.0,205.0,East South Central
+Mississippi,None of the above,5.0,5.0,5.0,5.0,5.0,765.0,768.0,East South Central
+Maryland,Carbamazepine/Oxcarbazepine,17.0,5.0,5.0,5.0,5.0,1446.0,1474.0,South Atlantic
+Maryland,Baclofen,5.0,5.0,5.0,5.0,5.0,561.0,576.0,South Atlantic
+Maryland,Gabapentin,16.0,5.0,5.0,5.0,5.0,1873.0,1904.0,South Atlantic
+Maryland,Lamotrigine,5.0,5.0,5.0,5.0,5.0,212.0,213.0,South Atlantic
+Maryland,Pregabalin,5.0,5.0,5.0,5.0,5.0,580.0,591.0,South Atlantic
+Maryland,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,104.0,110.0,South Atlantic
+Maryland,None of the above,5.0,5.0,5.0,5.0,5.0,805.0,808.0,South Atlantic
+Washington,Carbamazepine/Oxcarbazepine,27.0,5.0,13.0,14.0,14.0,1367.0,1420.0,Pacific
+Washington,Baclofen,5.0,5.0,5.0,5.0,5.0,463.0,485.0,Pacific
+Washington,Gabapentin,25.0,5.0,12.0,12.0,13.0,1629.0,1678.0,Pacific
+Washington,Lamotrigine,5.0,5.0,5.0,5.0,5.0,265.0,274.0,Pacific
+Washington,Pregabalin,12.0,5.0,5.0,5.0,5.0,539.0,560.0,Pacific
+Washington,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,19.0,177.0,200.0,Pacific
+Washington,None of the above,5.0,5.0,5.0,5.0,5.0,875.0,880.0,Pacific
+Tennessee,Carbamazepine/Oxcarbazepine,26.0,5.0,5.0,5.0,5.0,1274.0,1313.0,East South Central
+Tennessee,Baclofen,19.0,5.0,5.0,5.0,5.0,454.0,481.0,East South Central
+Tennessee,Gabapentin,25.0,5.0,5.0,5.0,5.0,1286.0,1327.0,East South Central
+Tennessee,Lamotrigine,5.0,5.0,5.0,5.0,5.0,170.0,176.0,East South Central
+Tennessee,Pregabalin,13.0,5.0,5.0,5.0,5.0,485.0,509.0,East South Central
+Tennessee,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,112.0,122.0,East South Central
+Tennessee,None of the above,5.0,5.0,5.0,5.0,5.0,620.0,621.0,East South Central
+Missouri,Carbamazepine/Oxcarbazepine,35.0,24.0,14.0,14.0,5.0,1102.0,1186.0,West North Central
+Missouri,Baclofen,5.0,13.0,5.0,5.0,5.0,434.0,469.0,West North Central
+Missouri,Gabapentin,23.0,27.0,12.0,11.0,5.0,1311.0,1385.0,West North Central
+Missouri,Lamotrigine,5.0,5.0,5.0,5.0,5.0,153.0,167.0,West North Central
+Missouri,Pregabalin,16.0,12.0,5.0,11.0,5.0,446.0,489.0,West North Central
+Missouri,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,17.0,155.0,185.0,West North Central
+Missouri,None of the above,5.0,5.0,5.0,5.0,5.0,533.0,539.0,West North Central
+Arizona,Carbamazepine/Oxcarbazepine,5.0,5.0,5.0,15.0,5.0,1029.0,1052.0,Mountain
+Arizona,Baclofen,5.0,5.0,5.0,5.0,5.0,341.0,352.0,Mountain
+Arizona,Gabapentin,5.0,5.0,5.0,5.0,5.0,1152.0,1169.0,Mountain
+Arizona,Lamotrigine,5.0,5.0,5.0,5.0,5.0,148.0,151.0,Mountain
+Arizona,Pregabalin,5.0,5.0,5.0,5.0,5.0,414.0,426.0,Mountain
+Arizona,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,96.0,99.0,Mountain
+Arizona,None of the above,5.0,5.0,5.0,5.0,5.0,638.0,645.0,Mountain
+Kansas,Carbamazepine/Oxcarbazepine,32.0,23.0,5.0,11.0,5.0,1093.0,1163.0,West North Central
+Kansas,Baclofen,21.0,13.0,5.0,5.0,5.0,405.0,452.0,West North Central
+Kansas,Gabapentin,30.0,25.0,12.0,5.0,12.0,1331.0,1406.0,West North Central
+Kansas,Lamotrigine,5.0,5.0,5.0,5.0,5.0,147.0,166.0,West North Central
+Kansas,Pregabalin,16.0,17.0,5.0,5.0,5.0,459.0,504.0,West North Central
+Kansas,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,15.0,188.0,208.0,West North Central
+Kansas,None of the above,5.0,5.0,5.0,5.0,5.0,501.0,503.0,West North Central
+Arkansas,Carbamazepine/Oxcarbazepine,35.0,5.0,5.0,43.0,13.0,1137.0,1227.0,West South Central
+Arkansas,Baclofen,14.0,5.0,5.0,22.0,13.0,452.0,500.0,West South Central
+Arkansas,Gabapentin,28.0,5.0,5.0,41.0,16.0,1286.0,1370.0,West South Central
+Arkansas,Lamotrigine,5.0,5.0,5.0,5.0,5.0,187.0,207.0,West South Central
+Arkansas,Pregabalin,5.0,5.0,5.0,31.0,5.0,457.0,505.0,West South Central
+Arkansas,OnabotulinumtoxinA,5.0,5.0,5.0,11.0,28.0,160.0,199.0,West South Central
+Arkansas,None of the above,5.0,5.0,5.0,5.0,5.0,412.0,418.0,West South Central
+Oklahoma,Carbamazepine/Oxcarbazepine,40.0,5.0,5.0,26.0,5.0,1120.0,1194.0,West South Central
+Oklahoma,Baclofen,16.0,5.0,5.0,12.0,5.0,404.0,432.0,West South Central
+Oklahoma,Gabapentin,31.0,5.0,5.0,16.0,5.0,1203.0,1255.0,West South Central
+Oklahoma,Lamotrigine,5.0,5.0,5.0,5.0,5.0,128.0,137.0,West South Central
+Oklahoma,Pregabalin,19.0,5.0,5.0,5.0,5.0,442.0,471.0,West South Central
+Oklahoma,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,66.0,73.0,West South Central
+Oklahoma,None of the above,5.0,5.0,5.0,5.0,5.0,470.0,481.0,West South Central
+Utah,Carbamazepine/Oxcarbazepine,16.0,15.0,22.0,5.0,5.0,832.0,891.0,Mountain
+Utah,Baclofen,5.0,5.0,12.0,5.0,5.0,354.0,382.0,Mountain
+Utah,Gabapentin,12.0,14.0,12.0,5.0,5.0,1015.0,1058.0,Mountain
+Utah,Lamotrigine,5.0,5.0,5.0,5.0,5.0,184.0,198.0,Mountain
+Utah,Pregabalin,5.0,5.0,13.0,5.0,5.0,426.0,462.0,Mountain
+Utah,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,18.0,171.0,189.0,Mountain
+Utah,None of the above,5.0,5.0,5.0,5.0,5.0,530.0,540.0,Mountain
+West Virginia,Carbamazepine/Oxcarbazepine,37.0,30.0,5.0,18.0,5.0,954.0,1043.0,South Atlantic
+West Virginia,Baclofen,22.0,12.0,5.0,15.0,5.0,294.0,346.0,South Atlantic
+West Virginia,Gabapentin,29.0,30.0,5.0,13.0,12.0,950.0,1030.0,South Atlantic
+West Virginia,Lamotrigine,12.0,5.0,5.0,5.0,5.0,139.0,160.0,South Atlantic
+West Virginia,Pregabalin,5.0,5.0,5.0,5.0,5.0,315.0,344.0,South Atlantic
+West Virginia,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,49.0,63.0,South Atlantic
+West Virginia,None of the above,5.0,5.0,5.0,5.0,5.0,534.0,539.0,South Atlantic
+Idaho,Carbamazepine/Oxcarbazepine,73.0,5.0,5.0,5.0,11.0,897.0,996.0,Mountain
+Idaho,Baclofen,37.0,5.0,5.0,5.0,5.0,345.0,396.0,Mountain
+Idaho,Gabapentin,62.0,5.0,5.0,5.0,15.0,1071.0,1155.0,Mountain
+Idaho,Lamotrigine,14.0,5.0,5.0,5.0,5.0,157.0,179.0,Mountain
+Idaho,Pregabalin,31.0,5.0,5.0,5.0,5.0,374.0,416.0,Mountain
+Idaho,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,20.0,132.0,158.0,Mountain
+Idaho,None of the above,5.0,5.0,5.0,5.0,5.0,446.0,451.0,Mountain
+Maine,Carbamazepine/Oxcarbazepine,24.0,19.0,5.0,37.0,5.0,744.0,815.0,New England
+Maine,Baclofen,14.0,11.0,5.0,31.0,5.0,247.0,297.0,New England
+Maine,Gabapentin,20.0,15.0,5.0,29.0,5.0,855.0,914.0,New England
+Maine,Lamotrigine,5.0,5.0,5.0,5.0,5.0,133.0,153.0,New England
+Maine,Pregabalin,12.0,12.0,5.0,14.0,5.0,275.0,309.0,New England
+Maine,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,99.0,107.0,New England
+Maine,None of the above,5.0,5.0,5.0,5.0,5.0,518.0,523.0,New England
+Nebraska,Carbamazepine/Oxcarbazepine,13.0,5.0,5.0,23.0,5.0,811.0,855.0,West North Central
+Nebraska,Baclofen,5.0,5.0,5.0,5.0,5.0,276.0,302.0,West North Central
+Nebraska,Gabapentin,5.0,5.0,5.0,19.0,11.0,886.0,929.0,West North Central
+Nebraska,Lamotrigine,5.0,5.0,5.0,5.0,5.0,164.0,181.0,West North Central
+Nebraska,Pregabalin,5.0,5.0,5.0,5.0,5.0,326.0,343.0,West North Central
+Nebraska,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,15.0,91.0,108.0,West North Central
+Nebraska,None of the above,5.0,5.0,5.0,5.0,5.0,315.0,315.0,West North Central
+New Hampshire,Carbamazepine/Oxcarbazepine,22.0,20.0,5.0,12.0,5.0,515.0,572.0,New England
+New Hampshire,Baclofen,5.0,5.0,5.0,5.0,5.0,187.0,208.0,New England
+New Hampshire,Gabapentin,15.0,17.0,5.0,5.0,5.0,685.0,728.0,New England
+New Hampshire,Lamotrigine,5.0,5.0,5.0,5.0,5.0,104.0,114.0,New England
+New Hampshire,Pregabalin,5.0,5.0,5.0,5.0,5.0,145.0,163.0,New England
+New Hampshire,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,80.0,93.0,New England
+New Hampshire,None of the above,5.0,5.0,5.0,5.0,5.0,396.0,405.0,New England
+Nevada,Carbamazepine/Oxcarbazepine,12.0,5.0,5.0,5.0,5.0,597.0,622.0,Mountain
+Nevada,Baclofen,5.0,5.0,5.0,5.0,5.0,194.0,204.0,Mountain
+Nevada,Gabapentin,5.0,5.0,5.0,5.0,5.0,692.0,713.0,Mountain
+Nevada,Lamotrigine,5.0,5.0,5.0,5.0,5.0,82.0,84.0,Mountain
+Nevada,Pregabalin,5.0,5.0,5.0,5.0,5.0,185.0,192.0,Mountain
+Nevada,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,47.0,56.0,Mountain
+Nevada,None of the above,5.0,5.0,5.0,5.0,5.0,338.0,341.0,Mountain
+Rhode Island,Carbamazepine/Oxcarbazepine,21.0,5.0,5.0,5.0,5.0,449.0,483.0,New England
+Rhode Island,Baclofen,5.0,5.0,5.0,5.0,5.0,147.0,166.0,New England
+Rhode Island,Gabapentin,16.0,5.0,5.0,5.0,5.0,575.0,603.0,New England
+Rhode Island,Lamotrigine,5.0,5.0,5.0,5.0,5.0,77.0,81.0,New England
+Rhode Island,Pregabalin,5.0,5.0,5.0,5.0,5.0,150.0,162.0,New England
+Rhode Island,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,14.0,31.0,47.0,New England
+Rhode Island,None of the above,5.0,5.0,5.0,5.0,5.0,366.0,368.0,New England
+Alabama,Carbamazepine/Oxcarbazepine,5.0,5.0,5.0,5.0,5.0,619.0,631.0,East South Central
+Alabama,Baclofen,5.0,5.0,5.0,5.0,5.0,199.0,206.0,East South Central
+Alabama,Gabapentin,5.0,5.0,5.0,5.0,5.0,616.0,626.0,East South Central
+Alabama,Lamotrigine,5.0,5.0,5.0,5.0,5.0,63.0,65.0,East South Central
+Alabama,Pregabalin,5.0,5.0,5.0,5.0,5.0,277.0,285.0,East South Central
+Alabama,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,25.0,27.0,East South Central
+Alabama,None of the above,5.0,5.0,5.0,5.0,5.0,253.0,253.0,East South Central
+North Dakota,Carbamazepine/Oxcarbazepine,13.0,5.0,5.0,5.0,5.0,550.0,574.0,West North Central
+North Dakota,Baclofen,5.0,5.0,5.0,5.0,5.0,162.0,178.0,West North Central
+North Dakota,Gabapentin,15.0,5.0,5.0,5.0,5.0,610.0,636.0,West North Central
+North Dakota,Lamotrigine,5.0,5.0,5.0,5.0,5.0,80.0,86.0,West North Central
+North Dakota,Pregabalin,5.0,5.0,5.0,5.0,5.0,170.0,179.0,West North Central
+North Dakota,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,51.0,58.0,West North Central
+North Dakota,None of the above,5.0,5.0,5.0,5.0,5.0,276.0,277.0,West North Central
+Hawaii,Carbamazepine/Oxcarbazepine,14.0,5.0,5.0,5.0,5.0,454.0,474.0,Pacific
+Hawaii,Baclofen,5.0,5.0,5.0,5.0,5.0,130.0,147.0,Pacific
+Hawaii,Gabapentin,11.0,5.0,5.0,5.0,5.0,500.0,516.0,Pacific
+Hawaii,Lamotrigine,5.0,5.0,5.0,5.0,5.0,59.0,61.0,Pacific
+Hawaii,Pregabalin,5.0,5.0,5.0,5.0,5.0,237.0,250.0,Pacific
+Hawaii,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,54.0,61.0,Pacific
+Hawaii,None of the above,5.0,5.0,5.0,5.0,5.0,338.0,339.0,Pacific
+Montana,Carbamazepine/Oxcarbazepine,11.0,5.0,5.0,5.0,5.0,418.0,436.0,Mountain
+Montana,Baclofen,5.0,5.0,5.0,5.0,5.0,177.0,189.0,Mountain
+Montana,Gabapentin,11.0,5.0,5.0,5.0,5.0,443.0,462.0,Mountain
+Montana,Lamotrigine,5.0,5.0,5.0,5.0,5.0,105.0,112.0,Mountain
+Montana,Pregabalin,5.0,5.0,5.0,5.0,5.0,159.0,164.0,Mountain
+Montana,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,63.0,69.0,Mountain
+Montana,None of the above,5.0,5.0,5.0,5.0,5.0,228.0,228.0,Mountain
+Vermont,Carbamazepine/Oxcarbazepine,17.0,11.0,5.0,5.0,5.0,312.0,342.0,New England
+Vermont,Baclofen,5.0,5.0,5.0,5.0,5.0,96.0,108.0,New England
+Vermont,Gabapentin,15.0,5.0,5.0,5.0,5.0,389.0,413.0,New England
+Vermont,Lamotrigine,5.0,5.0,5.0,5.0,5.0,81.0,86.0,New England
+Vermont,Pregabalin,5.0,5.0,5.0,5.0,5.0,86.0,102.0,New England
+Vermont,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,47.0,52.0,New England
+Vermont,None of the above,5.0,5.0,5.0,5.0,5.0,278.0,278.0,New England
+Delaware,Carbamazepine/Oxcarbazepine,16.0,5.0,5.0,5.0,5.0,330.0,355.0,South Atlantic
+Delaware,Baclofen,11.0,5.0,5.0,5.0,5.0,112.0,130.0,South Atlantic
+Delaware,Gabapentin,15.0,5.0,5.0,5.0,5.0,460.0,485.0,South Atlantic
+Delaware,Lamotrigine,5.0,5.0,5.0,5.0,5.0,68.0,80.0,South Atlantic
+Delaware,Pregabalin,5.0,5.0,5.0,5.0,5.0,128.0,135.0,South Atlantic
+Delaware,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,38.0,47.0,South Atlantic
+Delaware,None of the above,5.0,5.0,5.0,5.0,5.0,196.0,197.0,South Atlantic
+South Dakota,Carbamazepine/Oxcarbazepine,5.0,5.0,5.0,5.0,5.0,366.0,378.0,West North Central
+South Dakota,Baclofen,5.0,5.0,5.0,5.0,5.0,119.0,126.0,West North Central
+South Dakota,Gabapentin,5.0,5.0,5.0,5.0,5.0,348.0,357.0,West North Central
+South Dakota,Lamotrigine,5.0,5.0,5.0,5.0,5.0,42.0,46.0,West North Central
+South Dakota,Pregabalin,5.0,5.0,5.0,5.0,5.0,113.0,121.0,West North Central
+South Dakota,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,42.0,47.0,West North Central
+South Dakota,None of the above,5.0,5.0,5.0,5.0,5.0,159.0,159.0,West North Central
+New Mexico,Carbamazepine/Oxcarbazepine,27.0,5.0,5.0,5.0,5.0,252.0,292.0,Mountain
+New Mexico,Baclofen,5.0,5.0,5.0,5.0,5.0,127.0,140.0,Mountain
+New Mexico,Gabapentin,22.0,5.0,5.0,5.0,5.0,299.0,331.0,Mountain
+New Mexico,Lamotrigine,5.0,5.0,5.0,5.0,5.0,41.0,45.0,Mountain
+New Mexico,Pregabalin,5.0,5.0,5.0,5.0,5.0,87.0,101.0,Mountain
+New Mexico,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,43.0,47.0,Mountain
+New Mexico,None of the above,5.0,5.0,5.0,5.0,5.0,147.0,152.0,Mountain
+Wyoming,Carbamazepine/Oxcarbazepine,5.0,5.0,5.0,5.0,5.0,179.0,191.0,Mountain
+Wyoming,Baclofen,5.0,5.0,5.0,5.0,5.0,69.0,79.0,Mountain
+Wyoming,Gabapentin,5.0,5.0,5.0,5.0,5.0,210.0,222.0,Mountain
+Wyoming,Lamotrigine,5.0,5.0,5.0,5.0,5.0,39.0,41.0,Mountain
+Wyoming,Pregabalin,5.0,5.0,5.0,5.0,5.0,78.0,84.0,Mountain
+Wyoming,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,25.0,28.0,Mountain
+Wyoming,None of the above,5.0,5.0,5.0,5.0,5.0,82.0,84.0,Mountain
+District of Columbia,Carbamazepine/Oxcarbazepine,5.0,5.0,5.0,5.0,5.0,38.0,40.0,South Atlantic
+District of Columbia,Baclofen,5.0,5.0,5.0,5.0,5.0,11.0,11.0,South Atlantic
+District of Columbia,Gabapentin,5.0,5.0,5.0,5.0,5.0,42.0,42.0,South Atlantic
+District of Columbia,Lamotrigine,5.0,5.0,5.0,5.0,5.0,5.0,5.0,South Atlantic
+District of Columbia,Pregabalin,5.0,5.0,5.0,5.0,5.0,5.0,5.0,South Atlantic
+District of Columbia,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,5.0,5.0,South Atlantic
+District of Columbia,None of the above,5.0,5.0,5.0,5.0,5.0,70.0,70.0,South Atlantic
+Alaska,Carbamazepine/Oxcarbazepine,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific
+Alaska,Baclofen,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific
+Alaska,Gabapentin,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific
+Alaska,Lamotrigine,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific
+Alaska,Pregabalin,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific
+Alaska,OnabotulinumtoxinA,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific
+Alaska,None of the above,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Pacific

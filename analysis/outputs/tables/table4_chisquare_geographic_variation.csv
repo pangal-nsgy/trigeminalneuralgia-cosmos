@@ -1,0 +1,12 @@
+Variable,Type,Chi-Square,df,P-value,Significant
+Carbamazepine/Oxcarbazepine,Medication,911.6,8,<0.001,***
+Gabapentin,Medication,643.9,8,<0.001,***
+Pregabalin,Medication,642.6,8,<0.001,***
+Baclofen,Medication,219.0,8,<0.001,***
+Lamotrigine,Medication,88.8,8,<0.001,***
+OnabotulinumtoxinA,Medication,159.7,8,<0.001,***
+MVD,Procedure,294.4,8,<0.001,***
+SRS (Radiosurgery),Procedure,542.6,8,<0.001,***
+Percutaneous Rhizotomy,Procedure,172.6,8,<0.001,***
+Glycerol Rhizotomy,Procedure,231.4,8,<0.001,***
+Botox,Procedure,32.9,8,<0.001,***
