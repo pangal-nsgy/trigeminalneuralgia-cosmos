@@ -151,6 +151,16 @@ class TNConfig:
 TN_CONFIG = TNConfig()
 
 # =============================================================================
+# STATES TO EXCLUDE FROM STATE-LEVEL ANALYSIS
+# =============================================================================
+
+# States with very small sample sizes (n < 10) that create unreliable percentages
+# These are excluded from state-level visualizations but included in national/regional totals
+STATES_TO_EXCLUDE = [
+    "Alaska",  # < 10 patients; extreme percentage outliers
+]
+
+# =============================================================================
 # US CENSUS REGIONS
 # =============================================================================
 

@@ -1,0 +1,3 @@
+Test,Description,Chi-Square,df,P-value,Significant
+Medication Preferences,Distribution of 5 medication types across 9 regions,637.2,32,<0.001,Yes
+Surgical Preferences,Distribution of 4 procedure types across 9 regions,1090.1,24,<0.001,Yes

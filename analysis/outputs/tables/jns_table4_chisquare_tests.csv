@@ -1,0 +1,3 @@
+Test,Chi-Square,df,P-value,Result
+Medication Preferences by Region,597.8,32,<0.001,Significant
+Surgical Preferences by Region,681.7,24,<0.001,Significant

@@ -1,0 +1,15 @@
+Treatment,N,Rate (%),95% CI
+MEDICATIONS,,,
+  Carbamazepine/Oxcarbazepine,"123,851",42.7,(42.5-42.9)
+  Gabapentin,"148,000",51.0,(50.8-51.2)
+  Pregabalin,"47,032",16.2,(16.1-16.3)
+  Baclofen,"47,736",16.5,(16.3-16.6)
+  Lamotrigine,"19,266",6.6,(6.6-6.7)
+  OnabotulinumtoxinA,"14,972",5.2,(5.1-5.2)
+,,,
+PROCEDURES,,,
+  Microvascular Decompression (MVD),"4,033",1.39,(1.35-1.43)
+  Stereotactic Radiosurgery (SRS),"1,813",0.62,(0.60-0.65)
+  Percutaneous Rhizotomy,972,0.34,(0.31-0.36)
+  Glycerol Rhizotomy,"2,616",0.90,(0.87-0.94)
+  Botox Injection,"2,069",0.71,(0.68-0.74)

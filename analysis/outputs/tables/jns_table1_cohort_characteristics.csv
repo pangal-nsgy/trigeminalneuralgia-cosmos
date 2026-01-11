@@ -1,0 +1,17 @@
+Characteristic,N,Percentage
+Total TN Patients,"290,088",100.0%
+,,
+Census Region,,
+  South Atlantic,"65,578",22.6%
+  East North Central,"58,542",20.2%
+  Middle Atlantic,"37,997",13.1%
+  West South Central,"31,208",10.8%
+  Pacific,"25,353",8.7%
+  West North Central,"19,768",6.8%
+  New England,"19,196",6.6%
+  Mountain,"17,432",6.0%
+  East South Central,"15,014",5.2%
+,,
+Study Period,"Nov 28, 2022 - Nov 27, 2025",
+Data Source,Epic Cosmos,
+ICD-10 Code,G50.0 (Trigeminal Neuralgia),

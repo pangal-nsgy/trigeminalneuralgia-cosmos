@@ -1,0 +1,55 @@
+census_region,medication,mvd,srs,rhizotomy,botox,none_of_above,total
+East North Central,carbamazepine_oxcarbazepine,525,78,412,360,23757,25047
+East North Central,baclofen,286,40,283,337,9066,9929
+East North Central,gabapentin,410,78,437,433,27664,28926
+East North Central,lamotrigine,101,28,109,121,3642,3964
+East North Central,pregabalin,148,33,194,201,8557,9085
+East North Central,none_of_above,11,5,42,71,12480,12603
+West North Central,carbamazepine_oxcarbazepine,200,77,134,106,8413,8890
+West North Central,baclofen,96,41,80,70,2744,3007
+West North Central,gabapentin,151,72,118,137,9421,9858
+West North Central,lamotrigine,41,22,35,41,1268,1395
+West North Central,pregabalin,83,39,48,63,2866,3082
+West North Central,none_of_above,5,5,5,18,3998,4030
+Middle Atlantic,carbamazepine_oxcarbazepine,377,167,381,215,14897,15947
+Middle Atlantic,baclofen,189,91,198,159,5528,6106
+Middle Atlantic,gabapentin,318,145,336,198,18155,19076
+Middle Atlantic,lamotrigine,97,42,79,88,2377,2648
+Middle Atlantic,pregabalin,102,54,120,106,5016,5363
+Middle Atlantic,none_of_above,11,5,17,31,8893,8957
+New England,carbamazepine_oxcarbazepine,140,210,91,88,6769,7258
+New England,baclofen,67,101,66,46,2352,2609
+New England,gabapentin,117,164,80,80,8492,8899
+New England,lamotrigine,25,45,21,31,1077,1189
+New England,pregabalin,54,72,33,41,2179,2363
+New England,none_of_above,5,29,5,12,4922,4974
+South Atlantic,carbamazepine_oxcarbazepine,906,450,455,278,27844,29807
+South Atlantic,baclofen,469,208,216,216,10905,11939
+South Atlantic,gabapentin,757,365,401,343,35072,36829
+South Atlantic,lamotrigine,171,107,95,110,4153,4603
+South Atlantic,pregabalin,319,189,198,205,11443,12298
+South Atlantic,none_of_above,45,29,42,63,14552,14731
+East South Central,carbamazepine_oxcarbazepine,127,81,55,45,6949,7243
+East South Central,baclofen,54,44,27,32,2585,2727
+East South Central,gabapentin,114,62,48,46,7568,7824
+East South Central,lamotrigine,16,11,5,14,956,999
+East South Central,pregabalin,58,38,28,28,2651,2795
+East South Central,none_of_above,5,5,5,5,2936,2946
+West South Central,carbamazepine_oxcarbazepine,438,143,354,117,13836,14821
+West South Central,baclofen,173,60,181,80,4898,5355
+West South Central,gabapentin,365,120,299,145,16721,17588
+West South Central,lamotrigine,56,29,59,43,1728,1899
+West South Central,pregabalin,177,64,168,67,5485,5920
+West South Central,none_of_above,17,5,16,26,5438,5505
+Pacific,carbamazepine_oxcarbazepine,416,40,167,123,9092,9792
+Pacific,baclofen,191,12,86,77,3541,3883
+Pacific,gabapentin,357,36,149,138,11903,12544
+Pacific,lamotrigine,71,5,32,41,1379,1514
+Pacific,pregabalin,157,16,65,74,3625,3914
+Pacific,none_of_above,37,5,20,23,6048,6137
+Mountain,carbamazepine_oxcarbazepine,172,98,97,147,6552,7041
+Mountain,baclofen,76,41,56,111,2616,2883
+Mountain,gabapentin,146,70,78,147,7865,8284
+Mountain,lamotrigine,45,19,23,57,1214,1346
+Mountain,pregabalin,72,36,49,91,2716,2953
+Mountain,none_of_above,5,21,11,24,3998,4062
