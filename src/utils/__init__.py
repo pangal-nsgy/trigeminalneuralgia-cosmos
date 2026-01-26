@@ -12,9 +12,7 @@ from .data_cleaning import (
     pivot_to_wide,
     melt_to_long,
     calculate_percentages,
-)
-
-__all__ = [
+)__all__ = [
     "impute_small_cells",
     "clean_column_names",
     "extract_epic_data",
@@ -27,4 +25,3 @@ __all__ = [
     "melt_to_long",
     "calculate_percentages",
 ]
-
